@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Über uns | Apocrat</title>
+    <title>About us | Apocrat</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="https://apocrat.at/">
@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="/dist/css/main.css">
     <meta name="description" content="Das Team von Apocrat stellt sich vor">
 
-    <link href="https://www.apocrat.at/ueber-uns" rel="canonical">
+    <link href="https://www.apocrat.at/en/ueber-uns" rel="canonical">
 
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
@@ -44,15 +44,15 @@
 <?php include 'includes/headernav.inc' ?>
 <div class="hero px-2 md:px-0" style="background: url('./img/Bilder_Webseite/processed/marvin-meyer-SYTO3xs06fU-unsplash-(1)_processed.jpg');">
         <div class="hero__content">
-            <h1 class="mb-6">Über uns</h1>
-            <div class="font-bold mb-4 text-xl">Launch: Ende 2021</div>
+            <h1 class="mb-6">About</h1>
+            <div class="font-bold mb-4 text-xl">Launch: End of 2021</div>
         </div>
     </div>
 </div>
 
 <div class="content-block">
     <div class="container">
-        <h2 class="text-underline text-underline--center text-center">Wonach wir handeln...</h2>
+        <h2 class="text-underline text-underline--center text-center">What we act on...</h2>
         <div class="flex flex-col md:flex-row">
             <div class="w-full md:w-1/3 md:px-2 mt-8 md:mt-0 text-center">
                 <div class="square mx-auto">
@@ -72,7 +72,7 @@
                 </div>
 
                 <div class="text-yellow font-bold mt-4 mb-8 md:mb-0">
-                    Restore & secure privacy
+                    Restore &amp; secure privacy
                 </div>
             </div>
             <div class="w-full md:w-1/3 md:px-2 mt-8 md:mt-0 text-center">
@@ -92,18 +92,17 @@
     <div class="container">
         <div class="flex flex-col md:flex-row">
             <div class="w-full md:w-1/2 mx-auto px-4">
-                <h2 class="text-underline">Entstanden im Herzen der europäischen Wissenschaft</h2>
+                <h2 class="text-underline">Born in the heart of European science</h2>
                 <p class="mt-4">
-                    2020 bat sich uns die Gelegenheit, gemeinsam mit Studierenden aus der FH St.Pölten, FH
-                    Krems und der FHWN Wieselburg, als erste Studierende Österreichs an der CERN-BIC Screening
-                    Week teilzunehmen. Das CERN verfolgt damit das Ziel, Studierenden ihre eigens entwickelten
-                    Technologien näher zu bringen, damit diese neue und innovative Anwendungsfälle dafür finden
-                    können. Aufgrund unseres Backgrounds im Bereich IT-Security, entschieden wir uns CERN’s
-                    Datenanalyse Framework neues Leben einzuhauchen. Anstatt die Geheimnisse des
-                    Universums zu enthüllen, setzten wir das Framework dafür ein, mehr Sicherheit und
-                    Privatsphäre ins zu Hause zu bringen.
+			In 2020, we had the opportunity to participate in the CERN-BIC Screening Week as the first students
+			in Austria, together with students from FH St. Pölten, FH Krems and FHWN Wieselburg. CERN's aim is
+			to give students an understanding of the technologies they have developed so that they can find new
+			and innovative use cases for them. Because of our background in IT security, we decided to breathe
+			new life into CERN's data analysis framework. Instead of revealing the secrets of the universe, we
+			used the framework to bring more security and privacy into homes.
+
                 </p>
-                <div class="text-yellow font-bold mt-2 mb-6"><a class="hover:underline" href="https://cern-bic.accent.at/bic-screening-weeks/bic-screening-week/" target="_blank" rel="noopener">Zum Bericht</a></div>
+                <div class="text-yellow font-bold mt-2 mb-6"><a class="hover:underline" href="https://cern-bic.accent.at/bic-screening-weeks/bic-screening-week/" target="_blank" rel="noopener">Read the report</a></div>
                 <div class="w-full" style="height: 336px; background-image: url('img/Bilder_Webseite/processed/cern_first.jpg');background-position: center; background-repeat: no-repeat; background-size: cover"></div>
             </div>
 
@@ -111,9 +110,10 @@
 
             <div class="w-full md:w-1/2 mx-auto px-4 mt-8 md:mt-0">
                 <div class="w-full" style="height: 422px; background-image: url('img/Bilder_Webseite/processed/Praesi_processed.jpg');background-position: center; background-repeat: no-repeat; background-size: cover"></div>
-                <h2 class="text-underline mt-8">Alles hat einen Anfang</h2>
+                <h2 class="text-underline mt-8">Everything has a beginning</h2>
                 <p class="mt-4">
-                    Die CERN Screening Week in Genf endete mit unserem ersten Pitch für unser Konzept. Aus der damaligen Idee und unter noch anderem Namen (Halberd) entstand unser ausgereiftes Konzept, APOCRAT.
+			The CERN Screening Week in Geneva ended with our first pitch for our concept. From that idea and
+under a different name (Halberd), we developed our mature concept, APOCRAT.
                 </p>
             </div>
         </div>
@@ -122,17 +122,17 @@
 
 <div class="content-block--exception">
     <div class="container">
-        <h2 class="text-underline text-underline--center text-center">Unsere Mission</h2>
+        <h2 class="text-underline text-underline--center text-center">Our mission</h2>
         <div class="w-full md:max-w-3xl py-8 mx-auto px-16" style="border: 4px solid #0099CC;">
             <img src="/img/Icons%20Webseite/king--yellow.png" class="mx-auto my-8" alt="Crown" width="48px" loading="lazy">
             <div class="text-underline text-underline--center text-center text-blue font-bold text-xl">
-                Die Hoheit über die Daten wieder zurück an den einzelnen Menschen geben.
+		Returning sovereignty over data back to the individual.
             </div>
             <div class="text-center my-8">
-                <div>Hoheit durch Transparenz</div>
-                <div>Hoheit durch Privacy und Sicherheit</div>
-                <div>Hoheit durch Datenschutz</div>
-                <div>Hoheit durch Entscheidungsfreiheit</div>
+                <div>Sovereignty through transparency</div>
+                <div>Sovereignty through privacy and security</div>
+		<div>Sovereignty through data protection</div>
+                <div>Sovereignty through freedom of choice</div>
             </div>
         </div>
     </div>
@@ -140,7 +140,7 @@
 
 <div class="content-block bg-gray-100 py-8">
     <div class="container">
-        <h2 class="text-underline text-underline--center text-center">Das Team</h2>
+        <h2 class="text-underline text-underline--center text-center">Team</h2>
         <div class="flex flex-col md:flex-row">
             <div class="w-full md:w-1/4 md:px-2 mt-8 md:mt-0 text-center">
                 <img src="img/Bilder_Webseite/processed/Paul.jpg" loading="lazy" alt="Paul Lackner Porträtaufnahme" />
