@@ -65,6 +65,9 @@
                     <li class="inline-block mt-8 md:mt-0">
                         <a class="text-xl md:text-base text-white mx-1 md:mx-4 hover:underline hover:text-grey-500" href="en/ueber-uns">About us</a>
                     </li>
+                    <li class="inline-block mt-8 md:mt-0">
+                        <a class="text-xl md:text-base text-white mx-1 md:mx-4 hover:underline hover:text-grey-500" href="https://apocrat.at/">Deutsch</a>
+                    </li>
                 </ul>
                 <button class="md:hidden mr-2" onclick="openNavbar();">
                     <img class="" src="./icon/menu.svg" />
