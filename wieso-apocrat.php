@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Für Privatpersonen | Apocrat</title>
+    <title>Wieso APOCRAT | Apocrat</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="https://apocrat.at/">
@@ -38,7 +38,7 @@
 <?php include 'includes/headernav.inc' ?>
 <div class="hero px-2 md:px-0" style="background-position: center center !important;background-size: cover;background: url('./img/Bilder_Webseite/processed/roberto-nickson-q9nZUFC1nTw-unsplash_processed.jpg');">
     <div class="hero__content">
-        <h1 class="mb-6">Für Privatpersonen</h1>
+        <h1 class="mb-6">Wieso APOCRAT?</h1>
         <div class="font-bold mb-4 text-xl">Launch: Ende 2021</div>
     </div>
 </div>
