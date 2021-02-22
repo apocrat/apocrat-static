@@ -44,7 +44,7 @@
 <?php include 'includes/headernav.inc' ?>
 <div class="hero px-2 md:px-0" style="background: url('./img/Bilder_Webseite/processed/marvin-meyer-SYTO3xs06fU-unsplash-(1)_processed.jpg');">
         <div class="hero__content">
-            <h1 class="mb-6">About</h1>
+            <h1 class="mb-6">About us</h1>
             <div class="font-bold mb-4 text-xl">Launch: End of 2021</div>
         </div>
     </div>

@@ -38,7 +38,7 @@
 <?php include 'includes/headernav.inc' ?>
 <div class="hero px-2 md:px-0" style="background-position: center center !important;background-size: cover;background: url('./img/Bilder_Webseite/processed/roberto-nickson-q9nZUFC1nTw-unsplash_processed.jpg');">
     <div class="hero__content">
-        <h1 class="mb-6">For private individuals</h1>
+        <h1 class="mb-6">Why APOCRAT</h1>
         <div class="font-bold mb-4 text-xl">Launch: End of 2021</div>
     </div>
 </div>
