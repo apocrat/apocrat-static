@@ -241,10 +241,10 @@
         </p>
         <div class="flex flex-col md:flex-row">
             <div class="w-full md:w-1/2 mt-12">
-                <img loading="lazy" class="" src="./img/Bilder_Webseite/processed/Gruppe-29_processed.jpg" alt="Ohne APOCRAT" />
+                <img loading="lazy" class="" src="./img/Bilder_Webseite/ohne.png" alt="Ohne APOCRAT" />
             </div>
             <div class="w-full md:w-1/2 mt-12">
-                <img loading="lazy" class="" src="./img/Bilder_Webseite/processed/Gruppe-30_processed.png" alt="Mit APOCRAT" />
+                <img loading="lazy" class="" src="./img/Bilder_Webseite/mit.png" alt="Mit APOCRAT" />
             </div>
         </div>
     </div>

@@ -243,10 +243,10 @@ This creates a behavioural profile of you. It's time to put an end to this.
         </p>
         <div class="flex flex-col md:flex-row">
             <div class="w-full md:w-1/2 mt-12">
-                <img loading="lazy" class="" src="./img/Bilder_Webseite/processed/Gruppe-29_processed.jpg" alt="Without APOCRAT" />
+                <img loading="lazy" class="" src="./img/Bilder_Webseite/without.jpg" alt="Without APOCRAT" />
 	    </div>
 	    <div class="w-full md:w-1/2 mt-12">
-                <img loading="lazy" class="" src="./img/Bilder_Webseite/processed/Gruppe-30_processed.png" alt="With APOCRAT" />
+                <img loading="lazy" class="" src="./img/Bilder_Webseite/with.png" alt="With APOCRAT" />
             </div>
         </div>
     </div>
