@@ -6,7 +6,7 @@
     <title>Imprint | Apocrat</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <base href="https://apocrat.at/">
+    <base href="https://www.apocrat.at/">
     <meta property="og:title" content="">
     <meta property="og:type" content="">
     <meta property="og:url" content="">
