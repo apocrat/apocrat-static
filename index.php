@@ -165,7 +165,7 @@
             </p>
             <div class="flex flex-col md:flex-row">
                 <div class="w-full md:w-1/3 mt-8 md:mt-0">
-                    <div class="text-yellow font-bold text-3xl md:text-4xl mb-2">270.000</div>
+                    <div class="text-yellow font-bold text-3xl md:text-4xl mb-2">570.000</div>
                     <div class="w-64 mx-auto">Angriffe auf vernetzte Geräte <br/>pro Tag</div>
                 </div>
                 <div class="w-full md:w-1/3 mt-8 md:mt-0">

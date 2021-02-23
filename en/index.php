@@ -165,12 +165,12 @@ This creates a behavioural profile of you. It's time to put an end to this.
             </p>
             <div class="flex flex-col md:flex-row">
                 <div class="w-full md:w-1/3 mt-8 md:mt-0">
-                    <div class="text-yellow font-bold text-3xl md:text-4xl mb-2">270.000</div>
-                    <div class="w-64 mx-auto">Attacks on networked devices per day</div>
+                    <div class="text-yellow font-bold text-3xl md:text-4xl mb-2">570.000</div>
+                    <div class="w-64 mx-auto">attacks on networked devices per day</div>
                 </div>
                 <div class="w-full md:w-1/3 mt-8 md:mt-0">
                     <div class="text-yellow font-bold text-3xl md:text-4xl mb-2">&gt;10 Mio.</div>
-                    <div class="w-64 mx-auto">Households in Austria &amp; Germany use connected devices</div>
+                    <div class="w-64 mx-auto">households in Austria &amp; Germany use connected devices</div>
                 </div>
                 <div class="w-full md:w-1/3 mt-8 md:mt-0">
                     <div class="text-yellow font-bold text-3xl md:text-4xl mb-2">&gt;90%</div>
